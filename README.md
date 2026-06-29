@@ -9,7 +9,7 @@ Senior distributed systems engineer at [mulgadc](https://github.com/mulgadc), wi
 
 When I'm not working on the projects above, I spend my time:
 
-- Poring over distributed systems literature
+- Poring over formal verification and distributed systems literature (it's an obsession 😆)
 - Prototyping analog audio electronics (mostly guitar pedals and synthesizers) in my home lab
 - Automating my reptile/amphibian habitats with custom STM32, ESP32, and embedded Linux based devices
 
