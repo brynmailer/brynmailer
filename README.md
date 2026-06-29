@@ -5,7 +5,7 @@ Senior distributed systems engineer at [mulgadc](https://github.com/mulgadc), wi
 **Currently working on:**
 
 - [predastore](https://github.com/mulgadc/predastore) - Fault tolerant, erasure coded, distributed object storage for edge deployments, with an interface that looks and feels exactly like S3 itself.
-- [viperblock](https://github.com/mulgadc/viperblock) - Self hosted, high-performance virtual disk service aiming to provide EBS-like operations without the hyperscaler-level network fabric.
+- [viperblock](https://github.com/mulgadc/viperblock) - Self hosted, high-performance virtual disk service aiming to provide EBS-like operations without requiring a hyperscaler-quality network fabric.
 
 When I'm not working on the projects above, I spend my time:
 
