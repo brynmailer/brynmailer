@@ -4,7 +4,7 @@ Senior distributed systems engineer at [mulgadc](https://github.com/mulgadc), wi
 
 **Currently working on:**
 
-- [predastore](https://github.com/mulgadc/predastore) - S3-compatible object storage for on-premise and edge deployments.
+- [predastore](https://github.com/mulgadc/predastore) - Network partition tolerant, S3-compatible, distributed object storage for edge environments.
 - [viperblock](https://github.com/mulgadc/viperblock) - High-performance virtual disks, durably backed by any S3-compatible object store.
 
 ---
